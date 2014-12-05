@@ -4,6 +4,8 @@ print di
 #Updation of Dictionary (Enter value of s in quotes)
 s = input("Enter new entry for Raj:")
 di['Raj'] = s
+#Updated Dictionary
+print di
 #Lists
 li = ['raj','avi','shree','karan']
 print li

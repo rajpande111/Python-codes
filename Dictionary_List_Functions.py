@@ -7,7 +7,12 @@ di['Raj'] = s
 #Updated Dictionary
 print di
 #Lists
+print "List created"
 li = ['raj','avi','shree','karan']
+print li
+print "extend function on list"
+print "new list is"
+li.extend(['john','car'])
 print li
 #function
 n = input("Enter the value of n:")

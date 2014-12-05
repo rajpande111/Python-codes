@@ -1,7 +1,7 @@
 #Dictionary
 di = {'Raj':'Pvg','Avi':'Sinhgad','Shreemay':'Pccoe'}
 print di
-#Updation of Dictionary
+#Updation of Dictionary (Enter value of s in quotes)
 s = input("Enter new entry for Raj:")
 di['Raj'] = s
 #Lists
